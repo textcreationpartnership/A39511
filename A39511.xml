@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Earnest call to those nonconformists, who really believe the doctrine of the holy, blessed and glorious trinity, to come into the communion of the Church of England that by their constant regular confession of the Christian faith, they may confound the devices of the gain-sayers, whom by their separation they have so much encouraged.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39511</idno>
+            <idno type="STC">Wing E96</idno>
+            <idno type="STC">ESTC R40390</idno>
+            <idno type="EEBO-CITATION">18972372</idno>
+            <idno type="OCLC">ocm 18972372</idno>
+            <idno type="VID">108524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1667:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Earnest call to those nonconformists, who really believe the doctrine of the holy, blessed and glorious trinity, to come into the communion of the Church of England that by their constant regular confession of the Christian faith, they may confound the devices of the gain-sayers, whom by their separation they have so much encouraged.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Trinity.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:108524:1" rendition="simple:additions"/>
+AN Earneſt Call To thoſe <hi>Nonconformiſts,</hi> Who really Believe the Doctrine OF THE <hi>Holy, Bleſſed,</hi> and <hi>Glorious</hi> TRINITY, To come into the Communion OF THE <hi>Church</hi> of ENGLAND; THAT <hi>By their Conſtant Regular Confeſſion of the</hi> Chriſtian Faith, <hi>they may Con<g ref="char:EOLhyphen"/>found the Devices of thoſe</hi> GAIN-SAYERS, WHOM By their Separation they have ſo much Encouraged.</p>
+            <q rend="margQuotes">Let us conſider one another to provoke unto Love, and to Good Works: Not forſaking the Aſſembling of our ſelves together, <hi>&amp;c.</hi> 
+               <bibl>Heb. 10. 24, 25.</bibl>
+            </q>
+            <p>
+               <hi>London</hi> Printed, and are to be Sold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall,</hi> 1691.</p>
+            <pb facs="tcp:108524:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:108524:2"/>
+            <head>AN Earneſt Call To thoſe Nonconformiſts, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>My dear Brethren,</salute>
+            </opener>
+            <p>So I call you all, who Believe the Doctrine of the Bleſſed <hi>TRI<g ref="char:EOLhyphen"/>NITY</hi> Sincerely and Practical<g ref="char:EOLhyphen"/>ly, who Worſhip the <hi>Father, Son,</hi> and <hi>Holy Ghoſt,</hi> in whoſe Name we are <hi>BAPTIZED.</hi> I beſeech you by the <hi>Meekneſs and Gentleneſs of our Lord Jeſus Chriſt,</hi> That you would lay aſide all Prejudices againſt me<g ref="char:punc">▪</g> who have ſo often declar'd to ſo many of you, That it can hardly be imagin'd, that the <hi>Father of Lyes</hi> could ever find out a readier way to prepare the
+<pb n="2" facs="tcp:108524:3"/>
+               <hi>Populace</hi> for the Reception of that moſt damnable Doctrine of the <hi>Anti-Tri<g ref="char:EOLhyphen"/>nitarians,</hi> than by the contempt of the <hi>COMMON-PRAYER.</hi> We have often heard a ſenſeleſs Clamour, that the <hi>Common-Prayer,</hi> is an <hi>Idolatrous Wor<g ref="char:EOLhyphen"/>ſhip:</hi> Now we are told, why it is charg'd with <hi>Idolatry.</hi> In a Book En<g ref="char:EOLhyphen"/>titled, <hi>Eſſays towards a Union between Divinity and Morality,</hi> Part 5. Chap. 4. are theſe Words: <q rend="margQuotes">The firſt Com<g ref="char:EOLhyphen"/>mandement ſettles Supreme Wor<g ref="char:EOLhyphen"/>ſhip wholly on the Father, and makes the communicating of it, Idolatry; as for our Honor, we are to pay to the Son, the Scriptures call Mediation. As for Worſhip<g ref="char:EOLhyphen"/>ping the Holy Ghoſt, there is no Mention made of it in the whole Scripture; and when there is no Ground for ſuch Worſhip, one had as good make 100 Perſons in the God-head, as Three: But yet, tho' ſuch Worſhip be Idolatrous, and con<g ref="char:EOLhyphen"/>ſequently Odious; yet ought it not to deter us from our reaſonable Li<g ref="char:EOLhyphen"/>berty: thus I have formerly mani<g ref="char:EOLhyphen"/>feſted,
+<pb n="3" facs="tcp:108524:3"/>
+the <hi>Socinian</hi> may communi<g ref="char:EOLhyphen"/>cate with the Church of <hi>England,</hi> &amp;c.</q>
+            </p>
+            <p>Thus you ſee this moſt Impudent <hi>TEACHER</hi> of the groſſeſt <hi>Hypocri<g ref="char:EOLhyphen"/>ſie,</hi> charges the publick Worſhip of the <hi>Church of England,</hi> with <hi>Idolatry,</hi> becauſe we Worſhip <hi>the Son, and the Holy Ghost,</hi> as we do <hi>the Father,</hi> as being with the Father the only True, and Eternal GOD. In a late Pam<g ref="char:EOLhyphen"/>phlet, Entitled, <hi>A Vindication of the</hi> Unitarians, <hi>page</hi> 3. we find the like Expreſſions: <q rend="margQuotes">If we err, <hi>ſays this Profeſſed</hi> Arian, indeed, we Blaſpheme the Son, and Holy Ghoſt, which, we hope we do not; but if you err, Do not you both Blaſpheme and and Commit <hi>Idolatry</hi> in Worſhip<g ref="char:EOLhyphen"/>ping them as Co-equal to the Fa<g ref="char:EOLhyphen"/>ther?</q> You ſee here, <hi>What Spirit it is</hi> that Inſtigates ſo many People to cry out againſt the <hi>Common-Prayer,</hi> as if it were <hi>Idolatry,</hi> &amp;c. I beſeech you to conſider theſe Words of <hi>T. Cartwright,</hi> and the Anſwer given thereunto by the moſt Reverend Fa<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:108524:4"/>
+in God, Arch-Biſhop <hi>Whitgifte.</hi> 
+               <q rend="margQuotes">The Defence of the Anſwer to the Admonition, <hi>page</hi> 496. <hi>T. C.</hi>
+               </q>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="answer">
+                        <p>
+                           <q rend="margQuotes">The like may be ſaid of the <hi>Gloria-Patri,</hi> and the <hi>Athanaſius</hi>'s Creed, it was firſt brought into the Church, to the end, that men thereby ſhould make an open Profeſſion in the Church, of the Divinity of the Son of GOD, againſt the deteſtable Opinion of <hi>Arius</hi> and his Diſciples, wherewith at that time marvellouſly ſwarmed almoſt the whole Chriſten<g ref="char:EOLhyphen"/>dom: Now that it hath pleaſed the Lord to quench that Fire, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>here is no ſuch cauſe, why theſe things ſhould be in the Church; at the leaſt, why that <hi>Gloria-Patri</hi> ſhould be ſo often repeated.</q>
+                        </p>
+                        <closer>
+                           <signed>Jo. Whitgifte.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <q rend="margQuotes">Even as convenient now, as it was then: For it is as neceſſary to main<g ref="char:EOLhyphen"/>tain Truth, and make it known, as it is to ſuppreſs Errours; and yet it is not unknown, that even in our Days, and in this Church there have
+<pb n="5" facs="tcp:108524:4"/>
+been <hi>Arians,</hi> and I pray God, there be none ſtill. I muſt ſuſpect the matter, not well underſtanding where<g ref="char:EOLhyphen"/>unto thoſe glances of yours at <hi>Gloria-Patri,</hi> and <hi>Athanaſius</hi>'s Creed do tend. <hi>Gloria-Patri,</hi> beſides that, it con<g ref="char:EOLhyphen"/>taineth a brief Confeſſion of the <hi>Tri<g ref="char:EOLhyphen"/>nity,</hi> and of the Divinity of <hi>Jeſus Chriſt;</hi> it is a Magnifying, and Glo<g ref="char:EOLhyphen"/>rifying of the Father, the Son, and the Holy Ghoſt, Three Perſons, and One God; and <hi>Athanaſius's-Creed,</hi> is not only an excellent Confutation of <hi>Arius</hi>'s Hereſy, but a plain decla<g ref="char:EOLhyphen"/>ration of the Myſtery of the Tri<g ref="char:EOLhyphen"/>nity, ſuch as is neceſſary for all Chriſtian men to learn and know; and therefore he that is offended with the oft repetition, or ſaying of either of them, I cannot tell what I ſhould judge of him. But undoubt<g ref="char:EOLhyphen"/>edly, there is great Cauſe, why I ſhould ſuſpect him at the leaſt of ſingularity and unquietneſs.</q>
+            </p>
+            <p>You ſee this Prudent Man, did <hi>SUSPECT,</hi> that ſome Cunning <hi>Anti-Trinitarians</hi> had a hand in the
+<pb n="6" facs="tcp:108524:5"/>
+               <hi>Inflaming</hi> of ſome <hi>Hot-headed Perſons,</hi> with an unreaſonable Indignation a<g ref="char:EOLhyphen"/>gainſt the <hi>Liturgy</hi> of the Church of <hi>England,</hi> particularly thoſe moſt Ex<g ref="char:EOLhyphen"/>cellent Parts of it, the <hi>Gloria-Patri,</hi> and the <hi>Athanaſian-Creed.</hi> I do not charge <hi>T. C.</hi> with <hi>Arianiſm,</hi> but I charge him with a groſs Defect of that <hi>Zeal,</hi> which <hi>Chriſtianity</hi> requires, to that <hi>Principal Article</hi> of <hi>Sanctify<g ref="char:EOLhyphen"/>ing Truth,</hi> which the <hi>Arians,</hi> and all other ſorts of <hi>Anti-Trinitarians</hi> ſo ea<g ref="char:EOLhyphen"/>gerly endeavour to Suppreſs. That <hi>Gloria-Patri</hi> is ſo often repeated, is ſo far from being a <hi>Vain Repetition,</hi> that 'tis impoſſible any man ſhould ever conceive a good Thought, but when he has in his Heart the <hi>Power</hi> and <hi>Efficacy</hi> of thoſe Words: <q rend="margQuotes">Glory be to the Father, and to the Son, and to the Holy Ghoſt.</q> Therefore doth our Mother, the Church of <hi>England, Order,</hi> that the <hi>Gloria-Patri</hi> ſhall be repeated at the end of every <hi>Pſalm,</hi> becauſe the <hi>Conforming</hi> of our Hearts to thoſe <hi>Divine Affections,</hi> which are expreſt in every <hi>Pſalm,</hi> proceeds only
+<pb n="7" facs="tcp:108524:5"/>
+from the <hi>Efficacy</hi> of the <hi>Senſe</hi> contain<g ref="char:EOLhyphen"/>ed in thoſe Words, <q rend="margQuotes">Glory be to the Father, <hi>&amp;c.</hi>
+               </q> in which conſiſts the Life and Reality of all <hi>Chriſtian Virtue.</hi> No wonder that any man ſlights the <hi>LORD</hi>'s <hi>PRAYER,</hi> who hates the Doctrine of the <hi>TRINITY,</hi> and conſequently denies the Author of that <hi>Abſolutely Perfect</hi> Form of Pray<g ref="char:EOLhyphen"/>er to be the True and Eternal GOD. One of the late Blaſphemers of the <hi>God-head</hi> of our Bleſſed Saviour, in his Book Entitled, <hi>Eſſays,</hi> &amp;c. <hi>Part</hi> 6. <hi>Chap.</hi> 4. has theſe words: <q rend="margQuotes">The Lord's Prayer was but as an Ex<g ref="char:EOLhyphen"/>ample to ſhew the proper length, and matter for Prayer, and un<g ref="char:EOLhyphen"/>doubtedly, that Service is weak and ſuperſtitious, that deals too much in repetition of it.</q> He plainly re<g ref="char:EOLhyphen"/>flects upon the <hi>Divine Service</hi> of the Church of <hi>England,</hi> which in ano<g ref="char:EOLhyphen"/>ther place he charges with <hi>Idolatry,</hi> as he does here with <hi>Superſtition.</hi> Another of theſe <hi>Anti-Chriſtians,</hi> in a late Pamphlet, Entitled, <hi>Doctor Wallis</hi>'s <hi>Letter,</hi> &amp;c. Anſwered by a
+<pb n="8" facs="tcp:108524:6"/>
+Friend, Belches forth this horrid Blaſphemy in deriſion of the Bleſ<g ref="char:EOLhyphen"/>ſed <hi>TRINITY:</hi> 
+               <q rend="margQuotes">Suppoſe one Wo<g ref="char:EOLhyphen"/>man, <hi>Mary,</hi> to be Married to Three Men at once; <hi>Peter, James,</hi> and <hi>John;</hi> I <hi>Mary,</hi> take thee <hi>Peter, James,</hi> and <hi>John</hi> to be my Wedded Husband, <hi>&amp;c.</hi> Here are indeed Three Perſons, but only One Hus<g ref="char:EOLhyphen"/>band, the Husband-hood is but One, tho' the Perſons are Three.</q>
+            </p>
+            <p>
+               <q rend="margQuotes">Hear, O our GOD, for we are Deſpiſed. Hear, O our GOD, for Thou art Deſpiſed. Ariſe, O God, plead thine own Cauſe, remember how the Fooliſh Man reproacheth thee daily.</q> Oh, My dear Brethren, conſider, I beſeech you, that every True and Living Member of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> ſeeing his Bleſſed LORD thus <hi>Crucified afreſh, and put to an Open Shame,</hi> Cries out to you: <q rend="margQuotes">Is it no<g ref="char:EOLhyphen"/>thing to you, all ye that paſs by? Behold and ſee, if there be any Sorrow like unto my Sorrow!</q> But that it may not be ſaid by any of
+<pb n="9" facs="tcp:108524:6"/>
+my Adverſaries, that I do nothing but make Exclamations, I ſhall here ſhew you in one Inſtance, how I deal with this ſort of <hi>GAIN-SAYERS,</hi> in a way of the ſtricteſt kind of Argumentation. They Boaſt them<g ref="char:EOLhyphen"/>ſelves in the Title of <hi>Unitarians,</hi> and pretend a mighty Zeal for the Ho<g ref="char:EOLhyphen"/>nor of the <hi>UNITY</hi> of the <hi>Divine Eſſence;</hi> and yet one of them in a late Pamphlet, Entitled, <hi>Some Thoughts upon Dr.</hi> Sherlock's <hi>Vindication,</hi> &amp;c. plainly Blaſphemes that <hi>TRAN<g ref="char:EOLhyphen"/>SCENDENT UNITY</hi> in theſe Words: <q rend="margQuotes">By GOD we underſtand a Divine, and Supreme Perſon, one Numerical Being, and Spirit, having the ſame Notion of that Unity, which we have of an Angel, a Man, a King, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <div type="answer">
+               <head>Anſwer,</head>
+               <p>IT cannot be properly ſaid, That the <hi>Divine Eſſence</hi> is Numerically One: <hi>Numerical Unity,</hi> implies a poſ<g ref="char:EOLhyphen"/>ſibility
+<pb n="10" facs="tcp:108524:7"/>
+of <hi>Multiplication.</hi> That which is <hi>Numerically One,</hi> is One of Many, as an <hi>Angel,</hi> or a <hi>Man,</hi> &amp;c. 'Tis true, the Son is <hi>Numerically One,</hi> but 'tis for this reaſon, becauſe the <hi>Plurality</hi> of <hi>Suns,</hi> does not imply a Contradi<g ref="char:EOLhyphen"/>ction, as it does that there ſhould be more than <hi>One GOD,</hi> or <hi>Being ab<g ref="char:EOLhyphen"/>ſolutely Infinite.</hi> That the <hi>One Infinite Being, is the Father, Son, and Holy Ghoſt,</hi> the Holy Scriptures do abun<g ref="char:EOLhyphen"/>dantly Teſtify. And it is moſt <hi>Rea<g ref="char:EOLhyphen"/>ſonable</hi> to Conceive that in the One <hi>Infinite Eſſence,</hi> there may be a Cer<g ref="char:EOLhyphen"/>tain <hi>Trinity,</hi> or <hi>Triplicity,</hi> which can<g ref="char:EOLhyphen"/>not in any wiſe Appertain to any Three Perſons of a Finite Nature. Neither can the <hi>UNITY</hi> of the <hi>Divine Eſſence,</hi> be communicable to any Finite <hi>INDIVIDUAL:</hi> So that for any man <hi>to have the ſame Notion of that Unity,</hi> which we have of the Unity of an <hi>Angel,</hi> a <hi>Man,</hi> &amp;c. is to <hi>Err, not knowing the Scriptures, nor the Power of GOD.</hi> That you may conſtantly retain the right No<g ref="char:EOLhyphen"/>tion of the <hi>Infinity,</hi> and conſequent<g ref="char:EOLhyphen"/>ly
+<pb n="11" facs="tcp:108524:7"/>
+of the <hi>Abſolute,</hi> and <hi>Incommunica<g ref="char:EOLhyphen"/>ble UNITY</hi> of the <hi>Divine Eſſence,</hi> I ſhall Adviſe you frequently to Me<g ref="char:EOLhyphen"/>ditate on the 40. <hi>Chap.</hi> of the Book of the Prophet <hi>ISAIAH.</hi>
+               </p>
+               <p>I ſhall not detain you any longer at preſent, but only to Entreat you to Joyn with me in that Devotion, which we are Directed unto, by the Right Reverend Father in GOD, <hi>ARTHUR LAKE</hi> Biſhop of <hi>Bath</hi> and <hi>Wells,</hi> in the Prayer he ſub-joyns to his Excellent Sermon on theſe Words of that Bleſſed Prophet:<q rend="margQuotes">And His Name ſhall be called, the Wonderful Counſellour, the Mighty GOD.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">
+                     <hi>LORD,</hi> Guide us by thy Counſel, Support us by thy Power, that we be neither Cir<g ref="char:EOLhyphen"/>cumvented, nor Quelled, but by thy Direction and Protecti<g ref="char:EOLhyphen"/>on, we may eſcape both the
+<pb n="12" facs="tcp:108524:8"/>
+Craft, and the Force of all our Enemies. So ſhall we e<g ref="char:EOLhyphen"/>ver Glorify thee, as our Ad<g ref="char:EOLhyphen"/>mirable Counſellour, and our moſt Mighty GOD, Amen.</q>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108524:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
